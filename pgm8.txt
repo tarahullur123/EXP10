@@ -3,5 +3,8 @@ hllo
 how r u
 fine
 how ur day
+<<<<<<< HEAD
 good day
 bye
+=======
+>>>>>>> c095624 (c4)
